@@ -1,0 +1,5 @@
+build:
+  web: ./build.sh
+
+run:
+  web: ./run.sh
