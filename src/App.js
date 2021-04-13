@@ -143,7 +143,7 @@ function getRandomValue(array) {
 }
 
 function isItOpenTho() {
-  return ![2, 3].includes(new Date().getDay());
+  return ![3, 4].includes(new Date().getDay());
 }
 
 function DisplayDependingOnTime() {
